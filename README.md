@@ -1,9 +1,9 @@
 ## fbbrute
 
-Brute force facebook
+**Brute force facebook!
 
-Install on termux
-
+>Install on termux
+```
 $ pkg install git
 
 $ pkg install python2
@@ -19,3 +19,4 @@ $ pip install mechanize
 $ pip2 install mechanize
 
 $ python2 force.py
+```
