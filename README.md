@@ -1,6 +1,6 @@
 ## fbbrute
 
-**Brute force facebook!
+**Brute force facebook!**
 
 >Install on termux
 ```
